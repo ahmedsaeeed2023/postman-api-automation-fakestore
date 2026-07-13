@@ -21,10 +21,12 @@ To design and automate API test scenarios that validate response structure, stat
 ## 📁 Project Structure
 ├── collections/
 │   └── FakeStore_API_Collection.postman_collection.json
-├── environments/
-│   └── FakeStore.postman_environment.json
 ├── reports/
-│   └── newman-report.html
+│   └── Newman_Execution_Report.html
+├── testcases/
+│   └── FakeStore_API_TestCases.xlsx
+├── bug-reports/
+│   └── FakeStore_API_BugReport.xlsx
 └── README.md
 ## ▶️ How to Run
 1. Import the collection and environment into Postman, **or**
